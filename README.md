@@ -83,3 +83,7 @@ Save as PDF.
   actually shared publicly, its QR simply won't open for people without access.
 - **Large subtrees** make many Drive API calls and render many QR codes on one page —
   fine for hundreds of files; thousands may be slow to print.
+
+## License
+
+[GNU Affero General Public License v3.0](./LICENSE) (AGPL-3.0-only).
